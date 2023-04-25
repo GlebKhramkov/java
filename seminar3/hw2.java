@@ -5,7 +5,7 @@ import java.util.Iterator;
 import java.util.List;
 import java.util.Random;
 
-public class task2 {
+public class gh2{
 
     public static List<Integer> getRandomList() {
         Random random = new Random();
